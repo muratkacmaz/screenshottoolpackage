@@ -1,0 +1,513 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97e72df57dabb4fed8284999d433e805, type: 3}
+  m_Name: DeviceInfoCollection
+  m_EditorClassIdentifier: 
+  DeviceInfos:
+  - DeviceName: Apple iPad (5th gen)
+    Width: 1536
+    Height: 2048
+    SafeAreaWidth: 1536
+    SafeAreaHeight: 2048
+    SafeAreaYMax: 2048
+  - DeviceName: Apple iPad (6th gen)
+    Width: 1536
+    Height: 2048
+    SafeAreaWidth: 1536
+    SafeAreaHeight: 2048
+    SafeAreaYMax: 2048
+  - DeviceName: Apple iPad (7th gen)
+    Width: 1620
+    Height: 2160
+    SafeAreaWidth: 1620
+    SafeAreaHeight: 2160
+    SafeAreaYMax: 2160
+  - DeviceName: Apple iPad Air
+    Width: 1536
+    Height: 2048
+    SafeAreaWidth: 1536
+    SafeAreaHeight: 2048
+    SafeAreaYMax: 2048
+  - DeviceName: Apple iPad Air (4th generation)
+    Width: 1640
+    Height: 2360
+    SafeAreaWidth: 1640
+    SafeAreaHeight: 2272
+    SafeAreaYMax: 2312
+  - DeviceName: Apple iPad Air 2
+    Width: 1536
+    Height: 2048
+    SafeAreaWidth: 1536
+    SafeAreaHeight: 2008
+    SafeAreaYMax: 2008
+  - DeviceName: Apple iPad Mini 2
+    Width: 1536
+    Height: 2048
+    SafeAreaWidth: 1536
+    SafeAreaHeight: 2048
+    SafeAreaYMax: 2048
+  - DeviceName: Apple iPad Mini 4
+    Width: 1536
+    Height: 2048
+    SafeAreaWidth: 1536
+    SafeAreaHeight: 2048
+    SafeAreaYMax: 2048
+  - DeviceName: Apple iPad Pro 10.15
+    Width: 1668
+    Height: 2224
+    SafeAreaWidth: 1668
+    SafeAreaHeight: 2224
+    SafeAreaYMax: 2224
+  - DeviceName: Apple iPad Pro 11
+    Width: 1668
+    Height: 2388
+    SafeAreaWidth: 1668
+    SafeAreaHeight: 2348
+    SafeAreaYMax: 2388
+  - DeviceName: Apple iPad Pro 12.9 (2018)
+    Width: 2048
+    Height: 2732
+    SafeAreaWidth: 2048
+    SafeAreaHeight: 2692
+    SafeAreaYMax: 2732
+  - DeviceName: Apple iPhone 11
+    Width: 828
+    Height: 1792
+    SafeAreaWidth: 828
+    SafeAreaHeight: 1636
+    SafeAreaYMax: 1704
+  - DeviceName: Apple iPhone 12
+    Width: 1170
+    Height: 2532
+    SafeAreaWidth: 1170
+    SafeAreaHeight: 2289
+    SafeAreaYMax: 2391
+  - DeviceName: Apple iPhone 12 Pro
+    Width: 1170
+    Height: 2532
+    SafeAreaWidth: 1170
+    SafeAreaHeight: 2289
+    SafeAreaYMax: 2391
+  - DeviceName: Apple iPhone 12 Pro Max
+    Width: 1284
+    Height: 2778
+    SafeAreaWidth: 1284
+    SafeAreaHeight: 2535
+    SafeAreaYMax: 2637
+  - DeviceName: Apple iPhone 12 mini
+    Width: 1080
+    Height: 2338
+    SafeAreaWidth: 1080
+    SafeAreaHeight: 2096
+    SafeAreaYMax: 2193
+  - DeviceName: Apple iPhone 13 Pro
+    Width: 1170
+    Height: 2532
+    SafeAreaWidth: 1170
+    SafeAreaHeight: 2289
+    SafeAreaYMax: 2391
+  - DeviceName: Apple iPhone 13 Pro Max
+    Width: 1284
+    Height: 2778
+    SafeAreaWidth: 1284
+    SafeAreaHeight: 2535
+    SafeAreaYMax: 2637
+  - DeviceName: Apple iPhone 6
+    Width: 750
+    Height: 1334
+    SafeAreaWidth: 750
+    SafeAreaHeight: 1334
+    SafeAreaYMax: 1334
+  - DeviceName: Apple iPhone 6S
+    Width: 750
+    Height: 1334
+    SafeAreaWidth: 750
+    SafeAreaHeight: 1334
+    SafeAreaYMax: 1334
+  - DeviceName: Apple iPhone 7
+    Width: 750
+    Height: 1334
+    SafeAreaWidth: 750
+    SafeAreaHeight: 1334
+    SafeAreaYMax: 1334
+  - DeviceName: Apple iPhone 7 Plus
+    Width: 1080
+    Height: 1920
+    SafeAreaWidth: 1080
+    SafeAreaHeight: 1920
+    SafeAreaYMax: 1920
+  - DeviceName: Apple iPhone 8
+    Width: 750
+    Height: 1334
+    SafeAreaWidth: 750
+    SafeAreaHeight: 1334
+    SafeAreaYMax: 1334
+  - DeviceName: Apple iPhone 8 Plus
+    Width: 1080
+    Height: 1920
+    SafeAreaWidth: 1080
+    SafeAreaHeight: 1920
+    SafeAreaYMax: 1920
+  - DeviceName: Apple iPhone SE (2nd generation)
+    Width: 750
+    Height: 1334
+    SafeAreaWidth: 750
+    SafeAreaHeight: 1334
+    SafeAreaYMax: 1334
+  - DeviceName: Apple iPhone X
+    Width: 1125
+    Height: 2436
+    SafeAreaWidth: 1125
+    SafeAreaHeight: 2202
+    SafeAreaYMax: 2304
+  - DeviceName: Apple iPhone XR
+    Width: 828
+    Height: 1792
+    SafeAreaWidth: 828
+    SafeAreaHeight: 1636
+    SafeAreaYMax: 1704
+  - DeviceName: Apple iPhone XS
+    Width: 1125
+    Height: 2436
+    SafeAreaWidth: 1125
+    SafeAreaHeight: 2202
+    SafeAreaYMax: 2304
+  - DeviceName: Apple iPhone XS Max
+    Width: 1242
+    Height: 2688
+    SafeAreaWidth: 1242
+    SafeAreaHeight: 2454
+    SafeAreaYMax: 2556
+  - DeviceName: Apple iPod Touch 6th Gen
+    Width: 640
+    Height: 1136
+    SafeAreaWidth: 640
+    SafeAreaHeight: 1136
+    SafeAreaYMax: 1136
+  - DeviceName: Apple iPod Touch 7th Gen
+    Width: 640
+    Height: 1136
+    SafeAreaWidth: 640
+    SafeAreaHeight: 1136
+    SafeAreaYMax: 1136
+  - DeviceName: Asus ROG Phone
+    Width: 1080
+    Height: 2160
+    SafeAreaWidth: 1080
+    SafeAreaHeight: 2160
+    SafeAreaYMax: 2160
+  - DeviceName: Google Pixel 2
+    Width: 1080
+    Height: 1920
+    SafeAreaWidth: 1080
+    SafeAreaHeight: 1920
+    SafeAreaYMax: 1920
+  - DeviceName: Google Pixel 2 XL
+    Width: 1440
+    Height: 2880
+    SafeAreaWidth: 1440
+    SafeAreaHeight: 2880
+    SafeAreaYMax: 2880
+  - DeviceName: Google Pixel 3
+    Width: 1080
+    Height: 2160
+    SafeAreaWidth: 1080
+    SafeAreaHeight: 2160
+    SafeAreaYMax: 2160
+  - DeviceName: Google Pixel 4
+    Width: 1080
+    Height: 2280
+    SafeAreaWidth: 1080
+    SafeAreaHeight: 2280
+    SafeAreaYMax: 2280
+  - DeviceName: Google Pixel 5
+    Width: 1080
+    Height: 2340
+    SafeAreaWidth: 1080
+    SafeAreaHeight: 2204
+    SafeAreaYMax: 2204
+  - DeviceName: Google Pixel XL
+    Width: 1440
+    Height: 2560
+    SafeAreaWidth: 1440
+    SafeAreaHeight: 2560
+    SafeAreaYMax: 2560
+  - DeviceName: HTC 10
+    Width: 1440
+    Height: 2560
+    SafeAreaWidth: 1440
+    SafeAreaHeight: 2560
+    SafeAreaYMax: 2560
+  - DeviceName: HTC One M9
+    Width: 1080
+    Height: 1920
+    SafeAreaWidth: 1080
+    SafeAreaHeight: 1920
+    SafeAreaYMax: 1920
+  - DeviceName: Huawei P40 Pro
+    Width: 1200
+    Height: 2640
+    SafeAreaWidth: 1200
+    SafeAreaHeight: 2499
+    SafeAreaYMax: 2499
+  - DeviceName: Huawei P9
+    Width: 1080
+    Height: 1920
+    SafeAreaWidth: 1080
+    SafeAreaHeight: 1920
+    SafeAreaYMax: 1920
+  - DeviceName: LG G3
+    Width: 1440
+    Height: 2560
+    SafeAreaWidth: 1440
+    SafeAreaHeight: 2560
+    SafeAreaYMax: 2560
+  - DeviceName: LG G4
+    Width: 1440
+    Height: 2560
+    SafeAreaWidth: 1440
+    SafeAreaHeight: 2560
+    SafeAreaYMax: 2560
+  - DeviceName: LG Nexus 4
+    Width: 768
+    Height: 1280
+    SafeAreaWidth: 768
+    SafeAreaHeight: 1280
+    SafeAreaYMax: 1280
+  - DeviceName: LG Nexus 5
+    Width: 1080
+    Height: 1920
+    SafeAreaWidth: 1080
+    SafeAreaHeight: 1920
+    SafeAreaYMax: 1920
+  - DeviceName: Lenovo Phab2 Pro
+    Width: 1440
+    Height: 2560
+    SafeAreaWidth: 1440
+    SafeAreaHeight: 2560
+    SafeAreaYMax: 2560
+  - DeviceName: Motorola Moto E
+    Width: 540
+    Height: 960
+    SafeAreaWidth: 540
+    SafeAreaHeight: 960
+    SafeAreaYMax: 960
+  - DeviceName: Motorola Moto G7 Power
+    Width: 720
+    Height: 1520
+    SafeAreaWidth: 720
+    SafeAreaHeight: 1467
+    SafeAreaYMax: 1467
+  - DeviceName: Motorola Nexus 6
+    Width: 1440
+    Height: 2560
+    SafeAreaWidth: 1440
+    SafeAreaHeight: 2560
+    SafeAreaYMax: 2560
+  - DeviceName: Nvidia Shield Tablet
+    Width: 1200
+    Height: 1920
+    SafeAreaWidth: 1200
+    SafeAreaHeight: 1920
+    SafeAreaYMax: 1920
+  - DeviceName: OnePlus 6T
+    Width: 1080
+    Height: 2340
+    SafeAreaWidth: 1080
+    SafeAreaHeight: 2261
+    SafeAreaYMax: 2261
+  - DeviceName: OnePlus 7 Pro
+    Width: 1440
+    Height: 3120
+    SafeAreaWidth: 1440
+    SafeAreaHeight: 3120
+    SafeAreaYMax: 3120
+  - DeviceName: Razer Phone
+    Width: 1440
+    Height: 2560
+    SafeAreaWidth: 1440
+    SafeAreaHeight: 2560
+    SafeAreaYMax: 2560
+  - DeviceName: Samsung Galaxy J7 (2017)
+    Width: 1080
+    Height: 1920
+    SafeAreaWidth: 1080
+    SafeAreaHeight: 1920
+    SafeAreaYMax: 1920
+  - DeviceName: Samsung Galaxy Note10
+    Width: 1080
+    Height: 2280
+    SafeAreaWidth: 1080
+    SafeAreaHeight: 2190
+    SafeAreaYMax: 2190
+  - DeviceName: Samsung Galaxy Note10+ 5G
+    Width: 1440
+    Height: 3040
+    SafeAreaWidth: 1440
+    SafeAreaHeight: 2927
+    SafeAreaYMax: 2927
+  - DeviceName: Samsung Galaxy Note20 Ultra 5G
+    Width: 1440
+    Height: 3088
+    SafeAreaWidth: 1440
+    SafeAreaHeight: 2999
+    SafeAreaYMax: 2999
+  - DeviceName: Samsung Galaxy Note8
+    Width: 1440
+    Height: 2960
+    SafeAreaWidth: 1440
+    SafeAreaHeight: 2960
+    SafeAreaYMax: 2960
+  - DeviceName: Samsung Galaxy Note9
+    Width: 1440
+    Height: 2960
+    SafeAreaWidth: 1440
+    SafeAreaHeight: 2960
+    SafeAreaYMax: 2960
+  - DeviceName: Samsung Galaxy S10 5G
+    Width: 1440
+    Height: 3040
+    SafeAreaWidth: 1440
+    SafeAreaHeight: 2901
+    SafeAreaYMax: 2901
+  - DeviceName: Samsung Galaxy S10+
+    Width: 1440
+    Height: 3040
+    SafeAreaWidth: 1440
+    SafeAreaHeight: 2898
+    SafeAreaYMax: 2898
+  - DeviceName: Samsung Galaxy S10e
+    Width: 1080
+    Height: 2280
+    SafeAreaWidth: 1080
+    SafeAreaHeight: 2164
+    SafeAreaYMax: 2164
+  - DeviceName: Samsung Galaxy S5 Mini
+    Width: 720
+    Height: 1280
+    SafeAreaWidth: 720
+    SafeAreaHeight: 1280
+    SafeAreaYMax: 1280
+  - DeviceName: Samsung Galaxy S5 Neo
+    Width: 1080
+    Height: 1920
+    SafeAreaWidth: 1080
+    SafeAreaHeight: 1920
+    SafeAreaYMax: 1920
+  - DeviceName: Samsung Galaxy S7
+    Width: 1440
+    Height: 2560
+    SafeAreaWidth: 1440
+    SafeAreaHeight: 2560
+    SafeAreaYMax: 2560
+  - DeviceName: Samsung Galaxy S8
+    Width: 1440
+    Height: 2960
+    SafeAreaWidth: 1440
+    SafeAreaHeight: 2960
+    SafeAreaYMax: 2960
+  - DeviceName: Samsung Galaxy S9
+    Width: 1440
+    Height: 2960
+    SafeAreaWidth: 1440
+    SafeAreaHeight: 2960
+    SafeAreaYMax: 2960
+  - DeviceName: Samsung Galaxy Z Flip3 5G
+    Width: 1080
+    Height: 2640
+    SafeAreaWidth: 1080
+    SafeAreaHeight: 2546
+    SafeAreaYMax: 2546
+  - DeviceName: Samsung Galaxy Z Fold2 5G
+    Width: 960
+    Height: 2658
+    SafeAreaWidth: 960
+    SafeAreaHeight: 2566
+    SafeAreaYMax: 2566
+  - DeviceName: Samsung Galaxy Z Fold2 5G
+    Width: 1768
+    Height: 2208
+    SafeAreaWidth: 1768
+    SafeAreaHeight: 2120
+    SafeAreaYMax: 2120
+  - DeviceName: Sony Xperia XZ Premium
+    Width: 1080
+    Height: 1920
+    SafeAreaWidth: 1080
+    SafeAreaHeight: 1920
+    SafeAreaYMax: 1920
+  - DeviceName: Sony Xperia Z2 Tablet
+    Width: 1200
+    Height: 1920
+    SafeAreaWidth: 1200
+    SafeAreaHeight: 1920
+    SafeAreaYMax: 1920
+  - DeviceName: Xiaomi Mi 4i
+    Width: 1080
+    Height: 1920
+    SafeAreaWidth: 1080
+    SafeAreaHeight: 1920
+    SafeAreaYMax: 1920
+  - DeviceName: Xiaomi Mi 5
+    Width: 1080
+    Height: 1920
+    SafeAreaWidth: 1080
+    SafeAreaHeight: 1920
+    SafeAreaYMax: 1920
+  - DeviceName: Xiaomi Mi A3
+    Width: 720
+    Height: 1560
+    SafeAreaWidth: 720
+    SafeAreaHeight: 1507
+    SafeAreaYMax: 1507
+  - DeviceName: Xiaomi Mi Max
+    Width: 1080
+    Height: 1920
+    SafeAreaWidth: 1080
+    SafeAreaHeight: 1920
+    SafeAreaYMax: 1920
+  - DeviceName: Xiaomi Mi Note Pro
+    Width: 1440
+    Height: 2560
+    SafeAreaWidth: 1440
+    SafeAreaHeight: 2560
+    SafeAreaYMax: 2560
+  - DeviceName: Xiaomi Redmi 4
+    Width: 720
+    Height: 1280
+    SafeAreaWidth: 720
+    SafeAreaHeight: 1280
+    SafeAreaYMax: 1280
+  - DeviceName: Xiaomi Redmi 6 Pro
+    Width: 1080
+    Height: 2280
+    SafeAreaWidth: 1080
+    SafeAreaHeight: 2191
+    SafeAreaYMax: 2191
+  - DeviceName: Xiaomi Redmi Note 3
+    Width: 1080
+    Height: 1920
+    SafeAreaWidth: 1080
+    SafeAreaHeight: 1920
+    SafeAreaYMax: 1920
+  - DeviceName: Xiaomi Redmi Note 7
+    Width: 1080
+    Height: 2340
+    SafeAreaWidth: 1080
+    SafeAreaHeight: 2260
+    SafeAreaYMax: 2260
+  - DeviceName: vivo NEX 3 5G
+    Width: 1080
+    Height: 2256
+    SafeAreaWidth: 1080
+    SafeAreaHeight: 2256
+    SafeAreaYMax: 2256

@@ -1,0 +1,24 @@
+{
+  "name": "com.muratkacmaz.screenshottool",
+  "version": "1.0.0",
+  "displayName": "Screenshot Tool",
+  "description": "A Unity tool for automated screenshots across screen sizes.",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.unity.recorder": "4.0.2"
+  },
+  "repository": {
+    "url": "https://github.com/muratkacmaz/ScreenshotTool.git",
+    "type": "git"
+  },
+  "author": {
+    "name": "Murat Kacmaz",
+    "email": "kacmazmurat18@gmail.com",
+    "url": "https://github.com/muratkacmaz"
+  },
+  "keywords": [
+    "screenshot",
+    "tool",
+    "automation"
+  ]
+}
